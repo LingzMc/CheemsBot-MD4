@@ -44,16 +44,16 @@ global.socialm = "GitHub: Ademods2" //ur github or insta name
 global.location = "Indonesia, Jatim, Madiun" //ur location
 
 //bot bomdy 
-global.owner = ['628980330708']
-global.ownertag = '628980330708' //ur tag number
-global.botname = 'IndonesaBOT' //ur bot name
-global.linkz = "https://youtube.com/channel/UCXKXLAAEYD2BRsaBoIZBlNA" //your theme url which will be displayed on whatsapp
-global.websitex = "https://chat.whatsapp.com/H984ganTo0n6IuBlpMMEbh" //ur website to be displayed
-global.botscript = 'https://youtube.com/channel/UCXKXLAAEYD2BRsaBoIZBlNA' //script link
+global.owner = ['6281224650285']
+global.ownertag = '6281224650285' //ur tag number
+global.botname = 'Lingz Bot' //ur bot name
+global.linkz = "https://www.youtube.com/channel/UCQwEMagmFmBqT-PlY_PY1Lg" //your theme url which will be displayed on whatsapp
+global.websitex = "https://chat.whatsapp.com/ERmmxAU17Cs3zQ5KjPHdnv" //ur website to be displayed
+global.botscript = 'https://www.youtube.com/channel/UCQwEMagmFmBqT-PlY_PY1Lg' //script link
 global.reactmoji = "📌" //ur menu react emoji
 global.themeemoji = "📌" //ur theme emoji
 global.packname = "Sticker by" //ur sticker watermark packname
-global.author = "Ademods" //ur sticker watermark author
+global.author = "Lingz" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -62,7 +62,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['628980330708'] //ur premium numbers
+global.premium = ['6281224650285'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
