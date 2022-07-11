@@ -19,7 +19,7 @@ global.APIKeys = {
 
 
 //aumto functioner
-global.autoTyping = false //autoketik otomatis di gc (true buat on, false buat off)
+global.autoTyping = true //autoketik otomatis di gc (true buat on, false buat off)
 global.autoreadpmngc = true //pembacaan otomatis di pc (true to buat on, false buat off)
 global.autoReadGc = true //pembacaan otomatis di gc (true to on, false to off)
 global.autoRecord = true //perekaman otomatis (true to on, false to off)
@@ -37,23 +37,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['6285822347348'] //ur owner number
-global.ownername = "ArullOfc" //ur owner name
-global.ytname = "YT: ARULL OFC" //ur yt chanel name
-global.socialm = "GitHub: Warikrr" //ur github or insta name
-global.location = "Indonesia, Kalimantan Selatan, Kotabaru" //ur location
+global.vcardowner = ['628980330708'] //ur owner number
+global.ownername = "Ademods" //ur owner name
+global.ytname = "YT: Ademods" //ur yt chanel name
+global.socialm = "GitHub: Ademods2" //ur github or insta name
+global.location = "Indonesia, Jatim, Madiun" //ur location
 
 //bot bomdy 
-global.owner = ['6285822347348']
-global.ownertag = '6285822347348' //ur tag number
-global.botname = 'ArullBotzMD' //ur bot name
+global.owner = ['628980330708']
+global.ownertag = '628980330708' //ur tag number
+global.botname = 'IndonesaBOT' //ur bot name
 global.linkz = "https://youtube.com/channel/UC1ikkqsPvtWuE_QonsET1yg" //your theme url which will be displayed on whatsapp
-global.websitex = "https://chat.whatsapp.com/GdXv5LxKfDPHJ4WOH2rNu5" //ur website to be displayed
+global.websitex = "https://chat.whatsapp.com/H984ganTo0n6IuBlpMMEbh" //ur website to be displayed
 global.botscript = 'https://youtu.be/k3QkeVdAMOs' //script link
-global.reactmoji = "🗿" //ur menu react emoji
-global.themeemoji = "😩" //ur theme emoji
+global.reactmoji = "📌" //ur menu react emoji
+global.themeemoji = "📌" //ur theme emoji
 global.packname = "Sticker by" //ur sticker watermark packname
-global.author = "ArullOfc" //ur sticker watermark author
+global.author = "Ademods" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -62,7 +62,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['6285822347348'] //ur premium numbers
+global.premium = ['628980330708'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
